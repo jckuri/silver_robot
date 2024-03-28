@@ -2,7 +2,9 @@
 
 ## Game Design Document
 
-DOWNLOAD: [Game_Design_Document.pdf](Game_Design_Document.pdf)
+**DOWNLOAD: [Game_Design_Document.pdf](Game_Design_Document.pdf)**
+
+**YouTube Video: [https://youtu.be/J8j1f7ZX2RE](https://youtu.be/J8j1f7ZX2RE)**
 
 A GDD (game design document) is a highly descriptive, living document of the design of a video game. It helps to define the game details and features you intend for your game.
 
