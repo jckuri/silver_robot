@@ -59,18 +59,12 @@ The game has blocks, fires, coins, crates, and the player Mario. The UI has 2 el
 
 This section describes the game’s story, environment, characters, etc.
 
-**2. What is the storyline or narrative of your game?**<br/>
-For example, this is a pirate game on a pirate ship. Your playable character is a good pirate.
-
-Your answer here: 
+**2. What is the storyline or narrative of your game?**
 
 The video game is a mini version of Mario Bros, which is a very popular video game. This video game was programmed just for educational purposes. I will never sell it. So, I think there are no copyright issues due to the fact this is a clone of Mario Bros.
 
 
-**3. What are the main characters and objects in your game, and what roles do they play in the story and gameplay?**<br/>
-For example, the playable character is an old pirate, the enemy is a parrot, and the intractable objects are collectible gold coins.
-
-Your answer here: 
+**3. What are the main characters and objects in your game, and what roles do they play in the story and gameplay?**
 
 The main character is Mario who has to avoid the fires and collect all the 50 coins in order to win the videogame. Correctly using the 3 crates in the game is mandatory. Otherwise you won’t be able to solve the puzzle of collecting all the 50 coins.
 
@@ -78,18 +72,12 @@ The main character is Mario who has to avoid the fires and collect all the 50 co
 
 This section includes the core gameplay mechanics, input controls, and how the player interacts with the game.
 
-**4. What is the complete list of input actions that the player can perform, and how do these actions impact the game world?**<br/>
-For example, the left arrow key moves the playable character to the left. If a platform blocks the playable character’s path, movement is not allowed.
-
-Your answer here: 
+**4. What is the complete list of input actions that the player can perform, and how do these actions impact the game world?**
 
 Mario can move with the left arrow and the right arrow. Mario can jump with the up arrow. Mario can push the crates by walking toward them.
 
 
-**5. What is the typical gameplay loop (repeated actions) for the player?**<br/>
-For example, the player moves to collect the gold coin pickup objects and to avoid touching the enemy.
-
-Your answer here: 
+**5. What is the typical gameplay loop (repeated actions) for the player?**
 
 Mario has to avoid the fires and collect all the 50 coins in order to win the videogame. Correctly using the 3 crates in the game is mandatory. Otherwise you won’t be able to solve the puzzle of collecting all the 50 coins.
 
