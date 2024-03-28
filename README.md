@@ -6,6 +6,8 @@
 
 **YouTube Video: [https://youtu.be/J8j1f7ZX2RE](https://youtu.be/J8j1f7ZX2RE)**
 
+**GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
+
 A GDD (game design document) is a highly descriptive, living document of the design of a video game. It helps to define the game details and features you intend for your game.
 
 Completing a draft of this document upfront and then revisiting it to add and update it during your game development process is recommended. The final version of this document does not necessarily need to represent the final version of your game.
