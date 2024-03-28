@@ -1,0 +1,6 @@
+YouTube Video: https://youtu.be/J8j1f7ZX2RE
+
+GitHub Repository: https://github.com/jckuri/mini_mario_bros
+
+All the source code in Unity and C#: 
+https://github.com/jckuri/mini_mario_bros/tree/main/MarioBros
