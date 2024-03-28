@@ -27,17 +27,17 @@ This section includes at least one game design sketch that you create. It commun
 
 Motion parallax has 3 layers:
 
-Midground layer
+**Midground layer**
 
 <img src="images/tilemap.png"/>
 
-Cloud layer
+**Cloud layer**
 
 The cloud layer has fully transparent pixels, partially transparent pixels, and fully opaque pixels representing the clouds, which are in the middle of the midground layer and the forest layer.
 
 <img src="images/clouds.png"/>
 
-Forest layer
+**Forest layer**
 
 <img src="images/woods.png"/>
 
