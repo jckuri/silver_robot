@@ -12,10 +12,10 @@ Please complete all of the numbered bullet points below.
 
 Table Of Contents
 
-[Game Design Sketch](#Game_Design_Sketch)<br/>
-[Game Concept](#Game_Concept)<br/>
-[Game Mechanics](#Game_Mechanics)<br/>
-[Optional: Standout Suggestions](#Optional__Standout_Suggestions)<br/>
+[Game Design Sketch](#game-design-sketch)<br/>
+[Game Concept](#game-concept)<br/>
+[Game Mechanics](#game-mechanics)<br/>
+[Optional: Standout Suggestions](#optional-standout-suggestions)<br/>
 
 ### Game Design Sketch
 
