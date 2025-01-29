@@ -11,7 +11,8 @@ public class CoinManager : MonoBehaviour
 
     // Start is called before the first frame update
     void Start() {
-        coinCount = 0;
+        //coinCount = 0;
+        coinCount = 50 - 10;
         Game.instance.coinManager = this;
     }
 
