@@ -10,7 +10,7 @@
 
 **GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
 
-In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [MarioBros/Assets/CoinManager.cs](MarioBros/Assets/CoinManager.cs):
+In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [./MarioBros/Assets/CoinManager.cs](./MarioBros/Assets/CoinManager.cs):
 
 ```
     void Start() {
