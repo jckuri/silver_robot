@@ -4,11 +4,21 @@
 
 **DOWNLOAD: [Game_Design_Document.pdf](Game_Design_Document.pdf)**
 
-**YouTube Video: [https://youtu.be/J8j1f7ZX2RE](https://youtu.be/J8j1f7ZX2RE)**
+**YouTube Video (full version): [https://youtu.be/Yihrqw0eiyw](https://youtu.be/Yihrqw0eiyw)**
 
-**YouTube Video (56-second version): [https://youtu.be/60g42HIDVFc](https://youtu.be/60g42HIDVFc)**
+**YouTube Video (1-minute version): [https://youtu.be/o5g3RMp6ueg](https://youtu.be/o5g3RMp6ueg)**
 
 **GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
+
+In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [blob/main/MarioBros/Assets/CoinManager.cs](blob/main/MarioBros/Assets/CoinManager.cs):
+
+```
+    void Start() {
+        //coinCount = 0; // FULL VERSION
+        coinCount = 50 - 10; // 1-MINUTE VERSION
+        Game.instance.coinManager = this;
+    }
+```
 
 A GDD (game design document) is a highly descriptive, living document of the design of a video game. It helps to define the game details and features you intend for your game.
 

@@ -9,7 +9,7 @@ public class Game : MonoBehaviour
 
     public void Awake() {
         if(instance == null) instance = this;
-        Time.timeScale = 1;
+        Time.timeScale = 2;
 
         coinAudioSource = gameObject.AddComponent<AudioSource>();
         deathAudioSource = gameObject.AddComponent<AudioSource>();
@@ -70,7 +70,7 @@ public class Game : MonoBehaviour
 
     public void RestartGame() {
         SceneManager.LoadScene("SampleScene");        
-        Time.timeScale = 1;
+        Time.timeScale = 2;
     }
 
     // Start is called before the first frame update
