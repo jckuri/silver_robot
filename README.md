@@ -2,7 +2,7 @@
 
 ## Game Design Document
 
-**DOWNLOAD: [Game_Design_Document.pdf](./Game_Design_Document.pdf)**
+**DOWNLOAD: [GameDesignDocument.pdf](./GameDesignDocument.pdf)**
 
 **YouTube Video (full version): [https://youtu.be/Yihrqw0eiyw](https://youtu.be/Yihrqw0eiyw)**
 
