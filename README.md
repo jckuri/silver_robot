@@ -2,7 +2,7 @@
 
 ## Game Design Document
 
-**DOWNLOAD: [Game_Design_Document.pdf](Game_Design_Document.pdf)**
+**DOWNLOAD: [Game_Design_Document.pdf](./Game_Design_Document.pdf)**
 
 **YouTube Video (full version): [https://youtu.be/Yihrqw0eiyw](https://youtu.be/Yihrqw0eiyw)**
 
@@ -10,7 +10,7 @@
 
 **GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
 
-In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [./MarioBros/Assets/CoinManager.cs](./MarioBros/Assets/CoinManager.cs):
+In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [MarioBros/Assets/CoinManager.cs](./MarioBros/Assets/CoinManager.cs):
 
 ```
     void Start() {
