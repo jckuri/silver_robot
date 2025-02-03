@@ -12,7 +12,7 @@
 
 **GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
 
-**Builts for Linux, Windows, and Mac: [https://github.com/jckuri/mini_mario_bros/tree/main/MarioBros/BUILD](./BUILD/)**
+**Builts for Linux, Windows, and Mac: [https://github.com/jckuri/mini_mario_bros/tree/main/BUILD](./BUILD/)**
 
 In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [MarioBros/Assets/CoinManager.cs](./MarioBros/Assets/CoinManager.cs):
 
