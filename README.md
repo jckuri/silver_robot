@@ -8,6 +8,8 @@
 
 **YouTube Video (1-minute version): [https://youtu.be/o5g3RMp6ueg](https://youtu.be/o5g3RMp6ueg)**
 
+**YouTube Video (Mac version): [https://youtu.be/Uwgq8XJsDkA](https://youtu.be/Uwgq8XJsDkA)**
+
 **GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
 
 In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [MarioBros/Assets/CoinManager.cs](./MarioBros/Assets/CoinManager.cs):
