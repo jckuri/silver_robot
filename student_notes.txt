@@ -1,6 +1,22 @@
-YouTube Video: https://youtu.be/J8j1f7ZX2RE
-
 GitHub Repository: https://github.com/jckuri/mini_mario_bros
 
 All the source code in Unity and C#: 
 https://github.com/jckuri/mini_mario_bros/tree/main/MarioBros
+
+YouTube Video (full version): https://youtu.be/Yihrqw0eiyw
+
+YouTube Video (1-minute version): https://youtu.be/o5g3RMp6ueg
+
+YouTube Video (Mac version): https://youtu.be/Uwgq8XJsDkA
+
+Builts for Linux, Windows, and Mac: https://github.com/jckuri/mini_mario_bros/tree/main/BUILD
+
+In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file `MarioBros/Assets/CoinManager.cs`:
+
+```
+    void Start() {
+        //coinCount = 0; // FULL VERSION
+        coinCount = 50 - 10; // 1-MINUTE VERSION
+        Game.instance.coinManager = this;
+    }
+```
