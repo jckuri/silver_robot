@@ -20,4 +20,4 @@ Go to the directory:
 
 [../MarioBros/BUILD/Mac/](../MarioBros/BUILD/Mac/)
 
-Execute the file: `MarioBros.app`
+Execute the App: `MarioBros.app`
