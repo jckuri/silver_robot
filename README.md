@@ -1,28 +1,32 @@
-# Mini Version of Mario Bros
+# Silver Robot
 
 ## Game Design Document
 
 **DOWNLOAD: [GameDesignDocument.pdf](./GameDesignDocument.pdf)**
 
-**YouTube Video (full version): [https://youtu.be/Yihrqw0eiyw](https://youtu.be/Yihrqw0eiyw)**
+**YouTube Video (full version): [https://youtu.be/BhYPSAWtp38](https://youtu.be/BhYPSAWtp38)**
 
-**YouTube Video (1-minute version): [https://youtu.be/o5g3RMp6ueg](https://youtu.be/o5g3RMp6ueg)**
+**YouTube Video (1-minute version): [https://youtu.be/_-MGMgaxizU](https://youtu.be/_-MGMgaxizU)**
 
-**YouTube Video (Mac version): [https://youtu.be/Uwgq8XJsDkA](https://youtu.be/Uwgq8XJsDkA)**
+**GitHub Repository: [https://github.com/jckuri/silver_robot](https://github.com/jckuri/silver_robot)**
 
-**GitHub Repository: [https://github.com/jckuri/mini_mario_bros](https://github.com/jckuri/mini_mario_bros)**
+**Builts for Linux, Windows, and Mac: [https://github.com/jckuri/silver_robot/tree/main/BUILD](./BUILD/)**
 
-**Builts for Linux, Windows, and Mac: [https://github.com/jckuri/mini_mario_bros/tree/main/BUILD](./BUILD/)**
+<table border="1">
 
-In order to switch between the full version and the 1-minute version, you just need to set the variable `coinCount` in the file [MarioBros/Assets/CoinManager.cs](./MarioBros/Assets/CoinManager.cs):
+<tr><td>
+In order to switch between the full version and the 1-minute version, you just need to 
+</td></tr>
 
-```
-    void Start() {
-        //coinCount = 0; // FULL VERSION
-        coinCount = 50 - 10; // 1-MINUTE VERSION
-        Game.instance.coinManager = this;
-    }
-```
+<tr><td align="center">
+<img src="images/switch_14_50/CoinsText.png"/>
+</td></tr>
+
+<tr><td align="center">
+<img src="images/switch_14_50/CoinManager.png"/>
+</td></tr>
+
+</table>
 
 A GDD (game design document) is a highly descriptive, living document of the design of a video game. It helps to define the game details and features you intend for your game.
 
