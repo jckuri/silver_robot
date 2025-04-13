@@ -15,7 +15,7 @@
 <table border="1">
 
 <tr><td>
-In order to switch between the full version and the 1-minute version, you just need to 
+In order to switch between the 1-minute version and the full version, you just need to change the number of `Total Coins` from 14 to 50. Or vice versa, from 50 to 14. In order access the field `Total Coins`, you need to go to the `Canvas`, then click on `CoinsText`, and then scroll down to the section `CoinManager (Script)`.
 </td></tr>
 
 <tr><td align="center">
@@ -24,6 +24,11 @@ In order to switch between the full version and the 1-minute version, you just n
 
 <tr><td align="center">
 <img src="images/switch_14_50/CoinManager.png"/>
+</td></tr>
+
+<tr><td>
+By default in this GitHub repository, the number of `Total Coins` is 14. So, collecting all the 14 coins will take less than 1 minute.
+But if you want to experience the full video game, try changing the number of `Total Coins` to 50. 
 </td></tr>
 
 </table>
@@ -57,15 +62,15 @@ Motion parallax has 3 layers:
 
 **Cloud layer**
 
-The cloud layer has fully transparent pixels, partially transparent pixels, and fully opaque pixels representing the clouds, which are in the middle of the midground layer and the forest layer.
+The cloud layer has fully transparent pixels, partially transparent pixels, and fully opaque pixels representing the clouds, which are in the middle of the midground layer and the background layer.
 
 <img src="images/clouds.png"/>
 
-**Forest layer**
+**Background layer**
 
 <img src="images/woods.png"/>
 
-The game has blocks, fires, coins, crates, and the player Mario. The UI has 2 elements: The Restart button and a text with information about the coins collected and the total amount of coins to be collected.
+The game has blocks, fires, coins, crates, and the player Silver Robot. The UI has 2 elements: The Restart button and a text with information about the coins collected and the total amount of coins to be collected.
 
 <img src="images/game.png"/>
 
@@ -81,12 +86,13 @@ This section describes the game’s story, environment, characters, etc.
 
 **2. What is the storyline or narrative of your game?**
 
-The video game is a mini version of Mario Bros, which is a very popular video game. This video game was programmed just for educational purposes. I will never sell it. So, I think there are no copyright issues due to the fact this is a clone of Mario Bros.
+Silver Robot is a 2D Platformer Game whose objective is to collect 50 coins while avoiding the fires. This video game is tricky and not so easy to win because you need to think about how to solve many problems. But it is very entertaining.
 
 
 **3. What are the main characters and objects in your game, and what roles do they play in the story and gameplay?**
 
-The main character is Mario who has to avoid the fires and collect all the 50 coins in order to win the videogame. Correctly using the 3 crates in the game is mandatory. Otherwise you won’t be able to solve the puzzle of collecting all the 50 coins.
+The main character is Silver Robot who has to avoid the fires and collect all the 50 coins in order to win the videogame. Correctly using the 3 crates in the game is mandatory. Otherwise you won’t be able to solve the puzzle of collecting all the 50 coins.
+
 
 ### Game Mechanics
 
@@ -94,12 +100,12 @@ This section includes the core gameplay mechanics, input controls, and how the p
 
 **4. What is the complete list of input actions that the player can perform, and how do these actions impact the game world?**
 
-Mario can move with the left arrow and the right arrow. Mario can jump with the up arrow. Mario can push the crates by walking toward them.
+Silver Robot can move with the left arrow and the right arrow. Silver Robot can jump with the up arrow. Silver Robot can push the crates by walking toward them.
 
 
 **5. What is the typical gameplay loop (repeated actions) for the player?**
 
-Mario has to avoid the fires and collect all the 50 coins in order to win the videogame. Correctly using the 3 crates in the game is mandatory. Otherwise you won’t be able to solve the puzzle of collecting all the 50 coins.
+Silver Robot has to avoid the fires and collect all the 50 coins in order to win the videogame. Correctly using the 3 crates in the game is mandatory. Otherwise you won’t be able to solve the puzzle of collecting all the 50 coins.
 
 
 
